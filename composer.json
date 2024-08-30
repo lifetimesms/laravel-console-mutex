@@ -12,6 +12,7 @@
         "email": "dmitry.g.ivanov@gmail.com"
     }],
     "require": {
+        "laravel/framework": "^11.0",
         "php": "^8.2",
         "arvenil/ninja-mutex": "dev-master#82cbb2c",
         "illuminate/console": "^11.21.0",
